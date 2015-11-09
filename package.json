@@ -15,7 +15,7 @@
     "docker.io"
   ],
   "dependencies": {
-    "docker-modem": "0.2.x"
+    "docker-modem": "https://github.com/shipyard/docker-modem/archive/v0.2.7-dev-shipyard.tar.gz"
   },
   "devDependencies": {
     "chai": "~1.7.0",
